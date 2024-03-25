@@ -159,7 +159,4 @@ node worker.js
 
 ![Screenshot from 2024-03-25 22-40-22](https://gist.github.com/assets/6800568/7017da04-09d6-46f7-8374-45b282f779dd)
 
-
-Ref : [Implementing a Job Queue in Node.js: A Practical Guide](https://medium.com/@adarsh-d/implementing-a-job-queue-in-node-js-13a41dbdc98e)
-
-[Node.js: Create Job Queue Using Bull And Redis](https://javascript.plainenglish.io/node-js-create-job-queue-using-bull-and-redis-20fabcee60c5)
+Checkout my blog : [Node.js queue job with bull](https://gist.github.com/aungthuoo/9a30eda77bca73315a40945ba08a448f)
